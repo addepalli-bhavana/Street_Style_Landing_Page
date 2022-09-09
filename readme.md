@@ -4,9 +4,14 @@
 <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></p>
 
-### **🛠WHAT I HAVE LEARNT FROM THIS PROJECT:** 
+### **🛠WHAT I HAVE LEARNT IN THIS PROJECT:** 
 - CSS Positions(Relative,Absolute)
 - CSS Flex-box
+- Adding different fonts from the Google Fonts
+- designing Buttons 
+- Paddings and Margins
+- hover effect
+- Also learnt about opacity and letter-spacing   properties. I did not know these properties before doing this project.
 - CSS Selectors
 
 ### **⌛TIME TAKEN TO COMPLETE THIS PROJECT:** 
