@@ -1,0 +1,145 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  outline: 0px;
+  list-style-type: none;
+}
+.navbar-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 30px 80px;
+}
+.navbar-container div:first-child img {
+  height: 45px;
+}
+.list {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.list li {
+  padding: 0px 30px;
+  font-family: orbitron;
+  font-weight: 500;
+  font-size: 20px;
+}
+.button-group {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.button-group div {
+  padding: 0px 10px;
+}
+.nav-button {
+  padding: 5px 40px;
+  background-color: transparent;
+  font-family: poppins;
+  font-size: 18px;
+  border-radius: 10px;
+  opacity: 0.6;
+}
+.hero-container {
+  display: flex;
+  position: relative;
+}
+.person img {
+  height: 73vh;
+  width: 27vw;
+  position: absolute;
+  top: 10px;
+  left: 80px;
+}
+.square img {
+  height: 45vh;
+  width: 22vw;
+  position: relative;
+  top: 265px;
+  left: 220px;
+}
+.globe img {
+  position: relative;
+  left: 400px;
+  height: 50px;
+  bottom: 15px;
+}
+.star img:first-child {
+  position: relative;
+  left: 1060px;
+  height: 45px;
+  top: 25px;
+}
+.star img:last-child {
+  position: relative;
+  left: 270px;
+  top: 463px;
+  height: 40px;
+}
+.hero-container-right {
+  text-align: center;
+  margin-top: 95px;
+  margin-left: 160px;
+  margin-right: 50px;
+}
+.hero-heading {
+  font-family: Orbitron;
+  font-size: 60px;
+  padding-bottom: 40px;
+}
+.hero-description {
+  font-family: poppins;
+  opacity: 0.6;
+  font-size: 18px;
+  padding: 80px 120px;
+  padding-top: 0px;
+}
+.hero-container-right div:nth-child(3) {
+  padding-bottom: 80px;
+}
+.button-email {
+  padding: 4px 40px;
+  font-family: Orbitron;
+  border-radius: 10px;
+  opacity: 0.6;
+  background-color: transparent;
+  font-size: 18px;
+}
+.button-join {
+  padding: 4px 10px;
+  font-family: Orbitron;
+  background-color: black;
+  color: white;
+  border-radius: 10px;
+  font-size: 18px;
+}
+.contact-heading {
+  opacity: 0.6;
+  font-family: poppins;
+  letter-spacing: 1px;
+  font-size: 18px;
+  font-weight: 400;
+  padding-bottom: 10px;
+}
+.icons img {
+  height: 35px;
+  padding: 0px 7px;
+}
+.list-item:hover {
+  font-weight: bold;
+  text-decoration: underline;
+  cursor: pointer;
+  font-size: 21px;
+}
+.button-email:hover {
+  background-color: black;
+  color: white;
+  cursor: pointer;
+  opacity: unset;
+}
+.button-join:hover {
+  background-color: transparent;
+  color: black;
+  opacity: 0.6;
+  cursor: pointer;
+}
