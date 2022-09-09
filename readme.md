@@ -1,5 +1,3 @@
-# Hii Dear,This is ADDEPALLI BHAVANA👋
-
 ## PROJECT NAME: Street Style Landing Page
 
 ### **💻TECH STACK USED IN THIS PROJECT:** 
