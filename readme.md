@@ -1,6 +1,6 @@
-# Hii Dear,This is **Addepalli Bhavana**👋
+# Hii Dear,This is Addepalli Bhavana👋
 
-## Project Name: **Street Style Landing Page**
+## Project Name: Street Style Landing Page
 
 ### **💻Tech Stack Used In This Project:** 
 <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
