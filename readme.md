@@ -19,7 +19,7 @@
 ### **👀HOW MY PROJECT LOOKS LIKE:**
 ![Street Style Landing Page](ScreenCapture-Of-Street-Style-Landing-Page.png)
 
-### 💻It works only in **LAPTOP**(Not Responsive).
+### 💻This Project looks good only in **Laptop Screen**(Not Responsive)
 
 ### **🚀LIVE LINK:**
 -  This project is hosted on **Netlify**.You can Check it live using below link: 
