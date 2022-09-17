@@ -4,6 +4,7 @@
   outline: 0px;
   list-style-type: none;
 }
+/* navbar-section */
 .navbar-container {
   display: flex;
   align-items: center;
@@ -40,6 +41,7 @@
   border-radius: 10px;
   opacity: 0.6;
 }
+/* hero-container-left */
 .hero-container {
   display: flex;
   position: relative;
@@ -76,6 +78,7 @@
   top: 463px;
   height: 40px;
 }
+/* hero-container-right */
 .hero-container-right {
   text-align: center;
   margin-top: 95px;
@@ -125,6 +128,7 @@
   height: 35px;
   padding: 0px 7px;
 }
+/* hover-effect */
 .list-item:hover {
   font-weight: bold;
   text-decoration: underline;
